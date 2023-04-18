@@ -86,7 +86,7 @@ http://localhost:3500/api
 
 ## Tecnologias Front-end utilizadas
 
-- _Feact.js_
+- _React.js_
 - _Tailwind_
 - _Axios_
 - _react-hook-form_
